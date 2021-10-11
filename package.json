@@ -1,5 +1,6 @@
 {
   "name": "aws-async-ec2-instance",
+  "version": "0.0.1",
   "type": "module",
   "exports": "./instance.js"
 }
